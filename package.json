@@ -7,6 +7,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Girish1845/Honours.git"
+  },
+
   "author": "",
   "license": "ISC",
   "dependencies": {
